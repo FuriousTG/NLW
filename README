@@ -1,14 +1,25 @@
 
-| <NLW/> #9 eSports | Rocketseat explorer
+# | <NLW/> #9 eSports | Rocketseat explorer
 
-----------------------
-Tecnologia utilizada:
-html
-css
 
------------------
-Feramentas utilizadas:
-Visual Studio Code
-Git
+> Trilha explorer
+
+Projeto construído no evento Next Level Week da Roketseat.
+
+[Clique aqui para acessar a página](https://furioustg.github.io/nlw-esports-explorer)
+
+![preview](./.github/preview.png)
+
+## Tecnologia utilizada:
+- html
+- css
+- Git
+- Github
+
+## Feramentas utilizadas:
+ - Visual Studio Code
+ - Figma [link do projeto](https://www.figma.com/file/wcM7Of1DSXTkDGbShUEj97/NLW-eSports-(Community)?node-id=307%3A2056&mode=dev)
+
+
 
 
