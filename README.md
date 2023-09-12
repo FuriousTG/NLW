@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Roketseat.
 
-[Clique aqui para acessar a página](https://furioustg.github.io/nlw-esports-explorer)
+[Clique para acessar a página do projeto](https://furioustg.github.io/nlw-esports-explorer)
 
 ![preview](./.github/preview.png)
 
